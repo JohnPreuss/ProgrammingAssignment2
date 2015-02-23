@@ -10,7 +10,7 @@
 
 
 ## This function creates a list of functions that cache the matrix supplied
-## and the inverse of that matrix, once called by the cacheSolve function
+## and the inverse of that matrix, once called by the "cacheSolve" function
 ## below.
 
 makeCacheMatrix <- function(x = matrix()) {
